@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /another-page.html
 ---
 
 ## Welcome to another page
