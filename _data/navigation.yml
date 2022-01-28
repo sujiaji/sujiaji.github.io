@@ -1,6 +1,6 @@
 - name: Home
   link: /
 - name: Research
-  link: /another-page.html
+  link: /Research.html
 - name: Teaching
-  link: /another-page.html
+  link: /Teaching.html

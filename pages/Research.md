@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /another-page.html
+permalink: /Research.html
 ---
 
 ## Welcome to another page
