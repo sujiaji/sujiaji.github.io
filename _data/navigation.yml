@@ -1,4 +1,6 @@
 - name: Home
   link: /
-- name: About
+- name: Research
+  link: /another-page.html
+- name: Teaching
   link: /another-page.html
