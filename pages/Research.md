@@ -23,3 +23,4 @@ permalink: /Research.html
     1. **Statistical prediction of paper citation**
 
 * #### Previous
+    1. **Inverse problem in Liquid Chromatography**
