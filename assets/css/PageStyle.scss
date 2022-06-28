@@ -9,18 +9,24 @@
   }
 
   header {
-    width:270px;
+    width:160px;
     float:left;
     position:fixed;
     -webkit-font-smoothing:subpixel-antialiased;
   }
 
   footer {
-    width:270px;
+    width:160px;
     float:left;
     position:fixed;
     bottom:50px;
     -webkit-font-smoothing:subpixel-antialiased;
+  }
+
+  section {
+    width:600px;
+    float:right;
+    padding-bottom:50px;
   }
   
   @media print, screen and (max-width: 960px) {
