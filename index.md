@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Link to another page](./another-page.html).
+[My CV](./files/CV.pdf).
 * * *
 
 Me
