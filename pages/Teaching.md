@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: pages
 permalink: /Teaching.html
 ---
 
@@ -12,5 +12,3 @@ permalink: /Teaching.html
 *   20-21 SS: ST2334 ST3232
 *   21-22 FW: ST5213 DSA1101
 *   21-22 SS: ST2334 DSA1101 ST2137
-
-[Back to homepage](./)
