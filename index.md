@@ -4,18 +4,15 @@ layout: default
 <!-- Icon color: 3c3535 -->
 <!-- [My CV](./files/CV.pdf). -->
 * * *
-
-Me
-
+#### About me
 * * *
 
-My research
+[My CV](./files/CV.pdf)
 
 * * *
-
-My publication
-
+#### About my work
 * * *
+
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
