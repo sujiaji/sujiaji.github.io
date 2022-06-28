@@ -3,6 +3,8 @@ layout: pages
 permalink: /Teaching.html
 ---
 
+* * *
+
 ### As a teaching assistant:
 
 *   18-19 SS: ST2131
