@@ -28,15 +28,17 @@
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
         
+      <p> <small>
         {% if site.email_add %}
-        <p><small>{{ site.email_add }}</small></p>
+          {{ site.email_add }}<br>
         {% endif %}
         {% if site.phone_num %}
-        <p><small>{{ site.phone_num }}</small></p>
+        {{ site.phone_num }}<br>
         {% endif %}
         {% if site.mail_add %}
-        <p><small>{{ site.mail_add }}</small></p>
+        {{ site.mail_add }}<br>
         {% endif %}
+      </small> </p>
 
         {% if site.github.is_user_page %}
         <p class="view">

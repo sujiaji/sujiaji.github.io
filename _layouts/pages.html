@@ -17,9 +17,10 @@
       {% include navigation.html %}
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" width="60%" alt="Logo" />
+        {% if site.logo %}         
+            <p style="text-align: center;">
+                <img src="{{site.logo | relative_url}}" width="60%" alt="Logo" />    
+            </p>
         {% endif %}
 
 
@@ -36,7 +37,6 @@
 
       </header>
       <section>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
 
       {{ content }}
 
