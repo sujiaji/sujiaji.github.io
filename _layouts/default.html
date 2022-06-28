@@ -27,10 +27,20 @@
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
+        
+        {% if site.email_add %}
+        <p class="view"><small>{{ site.email_add }}</small></p>
+        {% endif %}
+        {% if site.phone_num %}
+        <p class="view"><small>{{ site.phone_num }}</small></p>
+        {% endif %}
+        {% if site.mail_add %}
+        <p class="view"><small>{{ site.mail_add }}</small></p>
+        {% endif %}
 
         {% if site.github.is_user_page %}
         <p class="view">
-          Find me <br>
+          Find me via: <br>
           <a href="{{ site.email_url }}"><img src="./images/email.png" alt="Email" width="30" height="30"></a>
           <a href="{{ site.github.owner_url }}"><img src="./images/GitHub.png" alt="GitHub" width="30" height="30"></a>
           <a href="{{ site.orcid_url }}"><img src="./images/ORCID.png" alt="ORCID" width="30" height="30"></a>
