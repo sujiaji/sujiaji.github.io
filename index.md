@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<!-- Icon color: 3c3535 -->
 <!-- [My CV](./files/CV.pdf). -->
 * * *
 

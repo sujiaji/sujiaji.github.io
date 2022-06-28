@@ -31,7 +31,7 @@
         {% if site.github.is_user_page %}
         <p class="view">
           Find me <br>
-          <a href="{{ email_url }}"><img src="./images/email.png" alt="Email" width="30" height="30"></a>
+          <a href="{{ site.email_url }}"><img src="./images/email.png" alt="Email" width="30" height="30"></a>
           <a href="{{ site.github.owner_url }}"><img src="./images/GitHub.png" alt="GitHub" width="30" height="30"></a>
           <a href="{{ site.orcid_url }}"><img src="./images/ORCID.png" alt="ORCID" width="30" height="30"></a>
           <a href="{{ site.GoogleScholar_url }}"><img src="./images/Scholar.png" alt="Google Scholar" width="30" height="30"></a>
@@ -56,7 +56,7 @@
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small>Last modified: {{ 'now' | date: "%b %e, %Y" }} <br>Hosted on GitHub Pages <br> Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small>Theme by <a href="https://github.com/orderedlist">orderedlist</a> <br>  Last modified: {{ 'now' | date: "%b %e, %Y" }}</small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
