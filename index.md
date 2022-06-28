@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[My CV](./files/CV.pdf).
+<!-- [My CV](./files/CV.pdf). -->
 * * *
 
 Me
