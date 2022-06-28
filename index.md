@@ -4,12 +4,13 @@ layout: default
 <!-- Icon color: 3c3535 -->
 <!-- [My CV](./files/CV.pdf). -->
 * * *
-### About me
+### Profile
 I am currently a Ph.D. candidate in the [Department of Statistics and Data Science](https://www.stat.nus.edu.sg/) at the [National University of Singapore](https://www.nus.edu.sg/) (NUS) since August 2018. Before that, I received my B.S. in statistics from [Zhejiang University](https://www.zju.edu.cn/english/) in 2018. For more information, please refer to <a href="./files/CV.pdf" target="_blank">my CV</a>.
 
 * * *
-### About my work
-* * *
+### Research Interest
+
+My main interest is in statistical inference with singularity, including but not limited to manifold fitting in Euclidean spaces, real data dimension reduction, and ill-posed inverse problems. Apart from that, I am also interested in machine learning, especially neural networks, from both theory and application aspects.
 
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
