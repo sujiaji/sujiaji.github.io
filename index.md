@@ -5,9 +5,7 @@ layout: default
 <!-- [My CV](./files/CV.pdf). -->
 * * *
 #### About me
-* * *
-
-[My CV](./files/CV.pdf)
+I am currently a PhD. candidate in the [Department of Statistics and Data Science](https://www.stat.nus.edu.sg/) at the [National University of Singapore](https://www.nus.edu.sg/) (NUS) since August 2018. Before that, I received my B.S. in statistics from [Zhejiang University](https://www.zju.edu.cn/english/) in 2018. For more information, please refer to [my CV](./files/CV.pdf).
 
 * * *
 #### About my work

@@ -5,7 +5,7 @@ permalink: /Teaching.html
 
 * * *
 
-### As a teaching assistant:
+### As a teaching assistant @ NUS:
 
 *   18-19 SS: ST2131
 *   19-20 FW: ST4231
