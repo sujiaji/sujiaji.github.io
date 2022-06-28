@@ -4,11 +4,11 @@ layout: default
 <!-- Icon color: 3c3535 -->
 <!-- [My CV](./files/CV.pdf). -->
 * * *
-#### About me
-I am currently a PhD. candidate in the [Department of Statistics and Data Science](https://www.stat.nus.edu.sg/) at the [National University of Singapore](https://www.nus.edu.sg/) (NUS) since August 2018. Before that, I received my B.S. in statistics from [Zhejiang University](https://www.zju.edu.cn/english/) in 2018. For more information, please refer to <a href="./files/CV.pdf" target="_blank">my CV</a>.
+### About me
+I am currently a Ph.D. candidate in the [Department of Statistics and Data Science](https://www.stat.nus.edu.sg/) at the [National University of Singapore](https://www.nus.edu.sg/) (NUS) since August 2018. Before that, I received my B.S. in statistics from [Zhejiang University](https://www.zju.edu.cn/english/) in 2018. For more information, please refer to <a href="./files/CV.pdf" target="_blank">my CV</a>.
 
 * * *
-#### About my work
+### About my work
 * * *
 
 
