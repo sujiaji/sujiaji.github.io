@@ -5,7 +5,7 @@ layout: default
 <!-- [My CV](./files/CV.pdf). -->
 * * *
 ### Profile
-I am currently a Ph.D. candidate in the [Department of Statistics and Data Science](https://www.stat.nus.edu.sg/) at the [National University of Singapore](https://www.nus.edu.sg/) (NUS) since August 2018. Before that, I received my B.S. in statistics from [Zhejiang University](https://www.zju.edu.cn/english/) in 2018. For more information, please refer to <a href="./files/CV.pdf" target="_blank">my CV</a>.
+I am currently a Ph.D. candidate in the [Department of Statistics and Data Science](https://www.stat.nus.edu.sg/) at the [National University of Singapore](https://www.nus.edu.sg/) (NUS). I have been here since August 2018, and my thesis advisor is associate professor [Zhigang YAO](https://zhigang-yao.github.io/index.html). Before coming to Singapore, I received my B.S. in statistics from [Zhejiang University](https://www.zju.edu.cn/english/) in 2018. For more information about me, please refer to <a href="./files/CV.pdf" target="_blank">my CV</a>.
 
 * * *
 ### Research Interest
