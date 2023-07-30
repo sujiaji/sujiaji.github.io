@@ -1,5 +1,5 @@
 <style>
-  a:link, a:visited {
+  a_nav:link, a_nav:visited {
     background-color: white;
     color: #3c3535;
     padding: 14px 25px;
@@ -8,15 +8,15 @@
     display: inline-block;
   }
   
-  a:hover, a:active {
+  a_nav:hover, a_nav:active {
     background-color: #3c3535;
   }
   </style>
 
 <nav align="right">
     {% for item in site.data.navigation %}
-      <a href="{{ item.link }}">
+      <a_nav href="{{ item.link }}">
         {{ item.name }}
-      </a>
+      </a_nav>
     {% endfor %}
 </nav>
