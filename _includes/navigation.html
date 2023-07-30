@@ -1,22 +1,13 @@
 <style>
-  a.nav:link, a.nav:visited {
-    background-color: white;
-    color: #3c3535;
-    padding: 4px 4px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
+  a:hover {
+  text-decoration: underline;
   }
-  
-  a.nav:hover, a.nav:active {
-    background-color: #3c3535;
-  }
-  </style>
+</style>
 
 <nav align="right">
     {% for item in site.data.navigation %}
-      <a.nav href="{{ item.link }}">
-        {{ item.name }}
-      </a.nav>
+      <a href="{{ item.link }}" {% if page.url == item.link %}style="color: #3c3535;"{% endif %}>
+        | {{ item.name }} |
+      </a>
     {% endfor %}
 </nav>
