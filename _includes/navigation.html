@@ -1,4 +1,4 @@
-<!-- <style>
+<style>
   a:hover {
   /* text-decoration: underline; */
   font-weight:normal;
@@ -13,47 +13,4 @@
         | {{ item.name }} |
       </a>
     {% endfor %}
-</nav> -->
-
-<style>
-  /* Navigation Styles */
-  nav {
-    background-color: #6dacb3;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 10px 20px; /* Adjust padding as needed */
-  }
-
-  links {
-    text-decoration: none;
-    font-size: 1em;
-    color: #3c3535;
-    margin: 0 10px; /* Adjust margin as needed */
-    transition: color 0.3s;
-  }
-
-  links:hover {
-    color: #FF8b00;
-  }
-
-  /* Logo Styles */
-  .logo {
-    /* Add your logo image URL and adjust dimensions as needed */
-    background-image: url("https://github.com/sujiaji/sujiaji.github.io/blob/main/images/nuslogo_0.jpg");
-    background-size: contain; /* Adjust as needed */
-    width: 10em; /* Adjust width as needed */
-    margin-right: 4em; /* Adjust margin as needed */
-  }
-</style>
-
-<nav>
-  <div class="logo"></div>
-  <div>
-    {% for item in site.data.navigation %}
-      <links href="{{ item.link }}" {% if page.url == item.link %}style="color: #FF8b00;"{% endif %}>
-        {{ item.name }}
-      </links>
-    {% endfor %}
-  </div>
 </nav>
