@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
   a:hover {
   /* text-decoration: underline; */
   font-weight:normal;
@@ -13,4 +13,40 @@
         | {{ item.name }} |
       </a>
     {% endfor %}
+</nav> -->
+
+<style>
+  /* Apply white background color to the navigation */
+  nav {
+    background-color: #FFFFFF;
+    padding: 10px; /* Add padding for better spacing */
+  }
+
+  /* Style the logo */
+  .logo {
+    float: left; /* Align the logo to the left */
+    margin-right: 20px; /* Add some spacing between the logo and links */
+  }
+
+  /* Style the links */
+  nav a:hover {
+    /* text-decoration: underline; */
+    font-weight: normal;
+    font-size: 1em;
+    color: #FF8b00;
+  }
+</style>
+</head>
+<body>
+
+<nav>
+  <!-- Add your logo here -->
+  <img src="your-logo.png" alt="Your Logo" class="logo">
+
+  <!-- Your navigation links -->
+  {% for item in site.data.navigation %}
+    <a href="{{ item.link }}" {% if page.url == item.link %}style="color: #3c3535;"{% endif %}>
+      {{ item.name }}
+    </a>
+  {% endfor %}
 </nav>
