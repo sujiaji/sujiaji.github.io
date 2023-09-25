@@ -16,37 +16,44 @@
 </nav> -->
 
 <style>
-  /* Apply white background color to the navigation */
+  /* Navigation Styles */
   nav {
     background-color: #FFFFFF;
-    padding: 10px; /* Add padding for better spacing */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px; /* Adjust padding as needed */
   }
 
-  /* Style the logo */
-  .logo {
-    float: left; /* Align the logo to the left */
-    margin-right: 20px; /* Add some spacing between the logo and links */
-  }
-
-  /* Style the links */
-  nav a:hover {
-    /* text-decoration: underline; */
-    font-weight: normal;
+  a {
+    text-decoration: none;
     font-size: 1em;
+    color: #3c3535;
+    margin: 0 10px; /* Adjust margin as needed */
+    transition: color 0.3s;
+  }
+
+  a:hover {
     color: #FF8b00;
   }
+
+  /* Logo Styles */
+  .logo {
+    /* Add your logo image URL and adjust dimensions as needed */
+    background-image: url('your-logo-image-url.png');
+    background-size: contain; /* Adjust as needed */
+    width: 10em; /* Adjust width as needed */
+    margin-right: 4em; /* Adjust margin as needed */
+  }
 </style>
-</head>
-<body>
 
 <nav>
-  <!-- Add your logo here -->
-  <img src="images/nuslogo_0.jpg" alt="Your Logo" class="logo", height="4em">
-
-  <!-- Your navigation links -->
-  {% for item in site.data.navigation %}
-    <a href="{{ item.link }}" {% if page.url == item.link %}style="color: #3c3535;"{% endif %}>
-      {{ item.name }}
-    </a>
-  {% endfor %}
+  <div class="logo"></div>
+  <div>
+    {% for item in site.data.navigation %}
+      <a href="{{ item.link }}" {% if page.url == item.link %}style="color: #FF8b00;"{% endif %}>
+        {{ item.name }}
+      </a>
+    {% endfor %}
+  </div>
 </nav>
