@@ -19,9 +19,9 @@ permalink: /Research.html
 
 * #### Journal Papers
 
-    1. **Su, J.**, [Yao, Z.](https://zhigang-yao.github.io/index.html)<sup>\*</sup>, [Li, C.](https://blog.nus.edu.sg/stalic/), & [Zhang, Y.](https://www.smbu.edu.cn/info/1342/4388.htm) (2023+). A Statistical Approach to Estimating Adsorption-Isotherm Parameters in Gradient-Elution Preparative Liquid Chromatography. *Annals of Applied Statistics*, In press.
+    1. **Su, J.**, [Yao, Z.](https://zhigang-yao.github.io/index.html)<sup>\*</sup>, [Li, C.](https://blog.nus.edu.sg/stalic/), & [Zhang, Y.](https://www.smbu.edu.cn/info/1342/4388.htm) (2023+). *A Statistical Approach to Estimating Adsorption-Isotherm Parameters in Gradient-Elution Preparative Liquid Chromatography*. Annals of Applied Statistics, 17 (4) 3476 - 3499.
     <br>
-    [arXiv:2201.00958](https://arxiv.org/abs/2201.00958) | [PDF](https://arxiv.org/pdf/2201.00958.pdf) | [Code](https://github.com/zhigang-yao/chromatography) 
+    [arXiv:2201.00958](https://arxiv.org/abs/2201.00958) | [DOI](https://doi.org/10.1214/23-AOAS1772) | [Code](https://github.com/zhigang-yao/chromatography) 
 
     <!-- 1. A Statistical Approach to Estimating Adsorption-Isotherm Parameters in Gradient-Elution Preparative Liquid Chromatography (2022)<br>
     Joint work with [YAO Zhigang](https://zhigang-yao.github.io/index.html), [LI Cheng](https://blog.nus.edu.sg/stalic/) and [ZHANG Ye](https://www.smbu.edu.cn/info/1342/4388.htm)<br>
