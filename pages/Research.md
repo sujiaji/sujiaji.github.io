@@ -13,7 +13,7 @@ permalink: /Research.html
 
     1. [Yao, Z.](https://zhigang-yao.github.io/index.html)<sup>&#9993;</sup>, Su, J., & [Li, B.]() (2023). Manifold Fitting: An Invitation to Statistics. *arXiv preprint*.
     <br>
-    [PDF](https://arxiv.org/pdf/2304.07680.pdf)  | [Code](https://github.com/zhigang-yao/manifold-fitting) | [arXiv:2304.07680](https://arxiv.org/abs/2304.07680) 
+    [Code](https://github.com/zhigang-yao/manifold-fitting) [PDF](https://arxiv.org/pdf/2304.07680.pdf)  | | [arXiv:2304.07680](https://arxiv.org/abs/2304.07680) 
 
 * #### Journal Papers
 
