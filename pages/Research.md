@@ -1,6 +1,24 @@
 ---
 layout: pages
 permalink: /Research.html
+
+<style>
+.supsub {
+    display: inline-block;
+}
+
+.supsub sup,
+.supsub sub {
+    position: relative;
+    display: block;
+    font-size: .5em;
+    line-height: 1.2;
+}
+
+.supsub sub {
+    top: .3em;
+}
+</style>
 ---
 
 * * *
