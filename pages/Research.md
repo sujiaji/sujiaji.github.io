@@ -23,7 +23,7 @@ permalink: /Research.html
     <br>
     [Code](https://github.com/zhigang-yao/MFCGAN) | [DOI]() 
 
-    1. Su, J., [Yao, Z.](https://zhigang-yao.github.io/index.html)<sup>&#9993;</sup>, [Li, C.](https://blog.nus.edu.sg/stalic/), & [Zhang, Y.](https://www.smbu.edu.cn/info/1342/4388.htm) (2023). A Statistical Approach to Estimating Adsorption-Isotherm Parameters in Gradient-Elution Preparative Liquid Chromatography. *Annals of Applied Statistics*, 17(4) 3476-3499.
+    1. Su, J., [Yao, Z.](https://zhigang-yao.github.io/index.html)<sup>&#9993;</sup>, [Li, C.](https://blog.nus.edu.sg/stalic/), & [Zhang, Y.](https://math.bit.edu.cn/szdw/jgml/jsyxtkxx/zy/index.htm) (2023). A Statistical Approach to Estimating Adsorption-Isotherm Parameters in Gradient-Elution Preparative Liquid Chromatography. *Annals of Applied Statistics*, 17(4) 3476-3499.
     <br>
     [Code](https://github.com/zhigang-yao/chromatography) | [arXiv](https://arxiv.org/abs/2201.00958) | [DOI: 10.1214/23-AOAS1772](https://doi.org/10.1214/23-AOAS1772) 
 
