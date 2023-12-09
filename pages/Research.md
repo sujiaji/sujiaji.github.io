@@ -2,6 +2,8 @@
 layout: pages
 permalink: /Research.html
 
+---
+
 <style>
 .supsub {
     display: inline-block;
@@ -19,7 +21,6 @@ permalink: /Research.html
     top: .3em;
 }
 </style>
----
 
 * * *
 
