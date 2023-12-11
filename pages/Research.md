@@ -22,7 +22,7 @@ permalink: /Research.html
 * #### Journal Papers
 
 
-    1. [Yao, Z.](https://zhigang-yao.github.io/index.html)<sup>&diams;</sup><sup>&#9993;</sup>, Su, J.<sup>&diams;</sup>, & [Yau, S-T](https://daweb.qzc.tsinghua.edu.cn/ShingTungYau/en/index.htm)<sup>&diams;</sup><sup>&#9993;</sup> (2023+). Manifold Fitting with CycleGAN. *Proceedings of the National Academy of Sciences of the United States of America*, In press.
+    1. [Yao, Z.](https://zhigang-yao.github.io/index.html)<sup>&diams;</sup><sup>&#9993;</sup>, Su, J.<sup>&diams;</sup>, & [Yau, S-T.](https://daweb.qzc.tsinghua.edu.cn/ShingTungYau/en/index.htm)<sup>&diams;</sup><sup>&#9993;</sup> (2023+). Manifold Fitting with CycleGAN. *Proceedings of the National Academy of Sciences of the United States of America*, In press.
     <br>
     <a href="https://github.com/zhigang-yao/MFCGAN" class="btn-href">Code</a> 
     <a href="" class="btn-href">Paper</a> 
