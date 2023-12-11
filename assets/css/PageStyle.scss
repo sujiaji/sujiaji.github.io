@@ -63,3 +63,27 @@
       top:52px;
     }
   }
+
+  .btn-href {
+    display: inline-block;
+    width: 1.2rem;  /* or use a relative unit like 3rem */
+    height: 1.2rem; /* or use a relative unit like 3rem */
+    line-height: 1.2rem; /* to vertically center the text */
+    /* padding: 0.1rem 0.2rem; */
+    /* border: none; */
+    border-radius: 0.4rem;
+    border: 0.05rem solid #003D7C;
+    text-decoration: none;
+    /* font-weight: bold; */
+    text-align: center;
+    cursor: pointer;
+    /* transition: background-color 0.3s; */
+    transition-duration: 0.6s;
+    background-color: #fff;
+}
+
+.btn-href:hover {
+    background-color: #f7aa57; /* Slightly lighter shade for hover effect */
+
+    border: 0.05rem solid #EF7C00;
+}
