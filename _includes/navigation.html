@@ -43,9 +43,13 @@ nav {
   }
 </style> 
 
-<nav align="right">
+<nav>
+  <a class="nav-item" href="/" style="float: left;">Su Jiaji</a>
+  <div style="float: right;">
     {% for item in site.data.navigation %}
-      <a class="nav-item" href="{{ item.link }}" {% if page.url == item.link %}style="color: #3c3535;"{% endif %}> {{ item.name }}
-      </a>
+        <a class="nav-item" href="{{ item.link }}" {% if page.url == item.link %}style="color: #3c3535;"{% endif %}>
+            {{ item.name }}
+        </a>
     {% endfor %}
+</div>
 </nav>
