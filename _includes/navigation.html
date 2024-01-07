@@ -5,12 +5,29 @@
   font-size: 1em;
   color: #FF8b00;
   }
+
+  a.nav-item {
+    display: inline-block; /* Makes the width and height properties effective */
+    width: 10em; /* Fixed width in em */
+    height: 2em; /* Height in em */
+    line-height: 2em; /* Vertically centers the text, same as height */
+    text-align: center; /* Horizontally centers the text */
+    margin: 0.3em; /* Adds some space around each item */
+    border: 1px solid #ccc; /* Adds a border */
+    background-color: #f8f8f8; /* Adds a background color */
+    box-sizing: border-box; /* Includes padding and border in the width and height */
+  }
+
+  a.nav-item:hover {
+    font-weight: normal;
+    font-size: 1em;
+    color: #FF8B00;
+  }
 </style>
 
 <nav align="right">
     {% for item in site.data.navigation %}
-      <a href="{{ item.link }}" {% if page.url == item.link %}style="color: #3c3535;"{% endif %}>
-        | {{ item.name }} |
+      <a class="nav-item" href="{{ item.link }}" {% if page.url == item.link %}style="color: #3c3535;"{% endif %}> {{ item.name }}
       </a>
     {% endfor %}
 </nav>
