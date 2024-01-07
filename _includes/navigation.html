@@ -6,9 +6,8 @@ nav {
     z-index: 1000; /* Ensures the nav bar stays on top of other elements */
     top: 0; /* Aligns the navigation bar at the very top */
     margin-bottom: 3em; /* Removes any bottom margin */
-    /* width: 100%; 
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
-    max-width: 960px; */
+    width: 80%;  
+    max-width: 960px;
   }
 
   body {
@@ -44,7 +43,6 @@ nav {
 </style> 
 
 <nav>
-  <a class="nav-item" href="/" style="float: left;">Su Jiaji</a>
   <div style="float: right;">
     {% for item in site.data.navigation %}
         <a class="nav-item" href="{{ item.link }}" {% if page.url == item.link %}style="color: #3c3535;"{% endif %}>
