@@ -13,9 +13,12 @@
     <![endif]-->
     {% include head-custom.html %}
   </head>
-  <body>
+  <div class="wrapper">
     {% include navigation.html %}
+  </div>
+  <body>
     <div class="wrapper">        
+      {% include navigation.html %}
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
