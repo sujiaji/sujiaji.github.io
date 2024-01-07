@@ -42,8 +42,8 @@ nav {
     color: #FF8B00;
   }
 </style> -->
-
-<!-- <nav align="right">
+<!-- 
+<nav align="right">
     {% for item in site.data.navigation %}
       <a class="nav-item" href="{{ item.link }}" {% if page.url == item.link %}style="color: #3c3535;"{% endif %}> {{ item.name }}
       </a>
@@ -64,9 +64,15 @@ nav {
     </div>
     <ul class="nav navbar-nav navbar-right collapse navbar-collapse">
 
-      {% for item in site.data.navigation %}
+      <!-- {% for item in site.data.navigation %}
       <li {% if page.url == item.link %}class="active"{% endif %}><a href="{{ item.link }}">{{ item.name }}</a></li>
-      {% endfor %}
+      <a class="nav-item" href="{{ item.link }}" {% if page.url == item.link %}style="color: #3c3535;"{% endif %}> {{ item.name }}
+      </a>
+      {% endfor %} -->
+      <li class="active"><a href="#">Home</a></li>
+      <li><a href="#">Page 1</a></li>
+      <li><a href="#">Page 2</a></li>
+      <li><a href="#">Page 3</a></li>
     </ul>
   </div>
 </nav>
