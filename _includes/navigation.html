@@ -2,13 +2,44 @@
 
 nav {
     position: fixed; /* Keeps the navigation bar fixed at the top */
-    top: 0; /* Aligns the navigation bar at the very top */
-    width: 100%; /* Ensures the navigation bar spans the full width of the page */
     background-color: #fff; /* Adds a background color, can be adjusted */
     z-index: 1000; /* Ensures the nav bar stays on top of other elements */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: Adds a subtle shadow for depth */
+    top: 0; /* Aligns the navigation bar at the very top */
     margin-bottom: 3em; /* Removes any bottom margin */
-    max-width: 960px;
+    /* width: 100%; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    max-width: 960px; */
+  }
+
+  body {
+    padding-top: 3em; /* Adds padding to the top of the body to prevent content from being hidden behind the fixed nav */
+  }
+
+  a:hover {
+  /* text-decoration: underline; */
+  font-weight:normal;
+  font-size: 1em;
+  color: #FF8b00;
+  }
+
+  a.nav-item {
+    font-size: 1em;
+    display: inline-block; /* Makes the width and height properties effective */
+    width: 6em; /* Fixed width in em */
+    height: 1.6em; /* Height in em */
+    line-height: 1.6em; /* Vertically centers the text, same as height */
+    text-align: center; /* Horizontally centers the text */
+    margin: 0.05em; /* Adds some space around each item */
+    border: 1px solid #fff; /* Adds a border */
+    border-radius: 0.5em;
+    background-color: #fff; /* Adds a background color */
+    box-sizing: border-box; /* Includes padding and border in the width and height */
+  }
+
+  a.nav-item:hover {
+    font-weight: normal;
+    font-size: 1em;
+    color: #FF8B00;
   }
 </style> 
 
