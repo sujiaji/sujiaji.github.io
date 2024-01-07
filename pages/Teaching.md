@@ -3,7 +3,6 @@ layout: pages
 permalink: /Teaching.html
 ---
 
-* * *
 
 ### As a teaching assistant @ NUS:
 

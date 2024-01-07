@@ -4,7 +4,6 @@ permalink: /Research.html
 
 ---
 
-* * *
 
 ### Publications
 (Correspondence<sup>&#9993;</sup>; equal contribution<sup>&diams;</sup>)
