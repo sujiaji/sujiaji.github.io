@@ -1,6 +1,8 @@
 ---
 layout: pages
 permalink: /Teaching.html
+
+title: Teaching
 ---
 
 
