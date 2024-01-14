@@ -1,7 +1,7 @@
 ---
 layout: pages
 permalink: /Research.html
-
+title: Research
 ---
 
 
