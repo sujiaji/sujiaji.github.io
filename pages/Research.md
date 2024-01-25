@@ -24,7 +24,7 @@ title: Research
     1. [Yao, Z.](https://zhigang-yao.github.io/index.html)<sup>&diams;</sup><sup>&#9993;</sup>, Su, J.<sup>&diams;</sup>, & [Yau, S-T.](https://daweb.qzc.tsinghua.edu.cn/ShingTungYau/en/index.htm)<sup>&diams;</sup><sup>&#9993;</sup> (2023+). Manifold Fitting with CycleGAN. *Proceedings of the National Academy of Sciences of the United States of America*, In press.
     <br>
     <a href="https://github.com/zhigang-yao/MFCGAN" class="btn-href">Code</a> 
-    <a href="" class="btn-href">Paper</a> 
+    <a href="https://www.pnas.org/doi/10.1073/pnas.2311436121" class="btn-href">Paper</a> 
     <!-- [Code](https://github.com/zhigang-yao/MFCGAN) | [DOI]()  -->
 
     1. Su, J., [Yao, Z.](https://zhigang-yao.github.io/index.html)<sup>&#9993;</sup>, [Li, C.](https://blog.nus.edu.sg/stalic/), & [Zhang, Y.](https://www.smbu.edu.cn/info/4251/53821.htm) (2023). A Statistical Approach to Estimating Adsorption-Isotherm Parameters in Gradient-Elution Preparative Liquid Chromatography. *Annals of Applied Statistics*, 17(4) 3476-3499.
