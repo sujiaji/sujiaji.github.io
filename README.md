@@ -11,6 +11,7 @@ If you want to start with **cloning my repository**, remember to revise:
 - pages/
 - images/profile.png
 - files/CV.pdf
+
 **Meanwhile** in the footers of *_layouts/default.html* and *_layouts/default.html*, there is a widget visit tracker from [https://clustrmaps.com/](https://clustrmaps.com/) need to be replaced/removed accordingly.
 
 To change the content in navigation bar, revise *_data/navigation.yml*.
