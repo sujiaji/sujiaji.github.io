@@ -6,7 +6,7 @@ layout: default
 
 
 ### Profile
-My Chinese name is 苏佳骥 (<a href="./files/name.mp3" target="_blank">pronunciation</a>).I am currently serving as a research fellow in the [Department of Statistics and Data Science](https://www.stat.nus.edu.sg/) at the [National University of Singapore](https://www.nus.edu.sg/) (NUS). I have been to NUS since August 2018, and received my Ph.D. in Statistics here in Jan 2024, under the guidance of associate professor [Zhigang YAO](https://zhigang-yao.github.io/index.html). Prior to my journey in Singapore, I completed my B.S. in Statistics from [Zhejiang University](https://www.zju.edu.cn/english/) in 2018. For additional details about my academic and professional journey, please refer to <a href="./files/CV.pdf" target="_blank">my CV</a>.
+My Chinese name is 苏佳骥 (<a href="./files/name.mp3" target="_blank">pronunciation</a>). I am currently serving as a research fellow in the [Department of Statistics and Data Science](https://www.stat.nus.edu.sg/) at the [National University of Singapore](https://www.nus.edu.sg/) (NUS). I have been to NUS since August 2018, and received my Ph.D. in Statistics here in Jan 2024, under the guidance of associate professor [Zhigang YAO](https://zhigang-yao.github.io/index.html). Prior to my journey in Singapore, I completed my B.S. in Statistics from [Zhejiang University](https://www.zju.edu.cn/english/) in 2018. For additional details about my academic and professional journey, please refer to <a href="./files/CV.pdf" target="_blank">my CV</a>.
 
 * * *
 ### Research Interest
