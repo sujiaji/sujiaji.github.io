@@ -9,7 +9,7 @@ profile:
   image: profile.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>S16, Level 7, 6 Science Drive 2</p>
+    <p>S16, 6 Science Drive 2</p>
     <p>Faculty of Science, NUS</p>
     <p>Singapore 117546</p>
 
