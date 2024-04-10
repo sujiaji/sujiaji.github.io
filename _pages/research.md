@@ -9,7 +9,7 @@ toc:
   sidebar: left
 ---
 
-## Publication
+### Publication
 
 <!-- _pages/publications.md -->
 <div class="publications">
@@ -18,5 +18,5 @@ toc:
 
 </div>
 
-## Talks
+### Talks
 - Beijing Institute of Technology, Beijing, July 2023.

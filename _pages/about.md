@@ -2,16 +2,16 @@
 layout: about
 title: Profile
 permalink: /
-subtitle: A Research Fellow at the Department of Statistics and Data Science, NUS
+subtitle: su_jiaji(at)nus.edu.sg A Research Fellow at DSDS, NUS.
 
 profile:
   align: left
   image: profile.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Email: su_jiaji(at)nus.edu.sg</p>
-    <p>Block S16, Level 7, 6 Science Drive 2, Faculty of Science,</p>
-    <p>National University of Singapore, Singapore 117546</p>
+    <p>S16, Level 7, 6 Science Drive 2</p>
+    <p>Faculty of Science, NUS</p>
+    <p>Singapore 117546</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

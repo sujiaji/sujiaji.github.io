@@ -49,7 +49,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 1200px
+max_width: 800px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -124,8 +124,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Jiaji's Memo Pad # blog_name will be displayed in your blog page
+blog_description: Hope they are also useful to you.
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -269,7 +269,7 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code"] # these tags will be displayed on the front page of your blog
+display_tags: ["manifold fitting", "ideas", "math", "code"] # these tags will be displayed on the front page of your blog
 display_categories: ["blockquotes"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
