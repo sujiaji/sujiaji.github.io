@@ -5,4 +5,5 @@ assets/plotly/demo.html
 lighthouse_results/**
 **/*.md
 _config.yml
-_data/coauthor.yml
+_data/coauthors.yml
+_sass/_variables.scss
