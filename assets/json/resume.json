@@ -33,6 +33,7 @@
       "institution": "National University of Singapore",
       "url": "https://www.nus.edu.sg/",
       "area": "Department of Statistics and Data Science",
+      "location": "Singapore",
       "studyType": "PhD in Statistics",
       "startDate": "2018-06",
       "endDate": "2024-01",
@@ -44,7 +45,7 @@
       "endDate": "2018-06",
       "location": "Zhejiang, China",
       "url": "https://www.zju.edu.cn/",
-      "area": "Software Development",
+      "area": "School of Mathematical Sciences",
       "studyType": "Bachelor of Natural Sciences in Statistics",
       "date": "2018-06"
     }
@@ -61,7 +62,7 @@
       "icon": ""
     }
   ],
-  "publication":[
+  "publications":[
     {"show": "Ture"}
   ]
 }
