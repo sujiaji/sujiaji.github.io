@@ -2,7 +2,7 @@
 layout: about
 title: Profile
 permalink: /
-subtitle: su_jiaji(at)nus.edu.sg A Research Fellow at DSDS, NUS.
+subtitle: su_jiaji(at)nus.edu.sg. A Research Fellow at DSDS, NUS.
 
 profile:
   align: left
@@ -18,6 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-My Chinese name is 苏佳骥. I am currently serving as a research fellow in the [Department of Statistics and Data Science](https://www.stat.nus.edu.sg/) at the [National University of Singapore](https://www.nus.edu.sg/) (NUS). I have been to NUS since August 2018, and received my Ph.D. in Statistics here in Jan 2024, under the guidance of associate professor [Zhigang YAO](https://zhigang-yao.github.io/index.html). Prior to my journey in Singapore, I completed my B.S. in Statistics from [Zhejiang University](https://www.zju.edu.cn/english/) in 2018. For additional details about my academic and professional journey, please refer to <a href="/cv/">my CV</a>.
+I am Su Jiaji (苏佳骥), a freshman in the statistical research community.
 
-My main interest is in statistical inference with singularity, including but not limited to manifold fitting in Euclidean spaces, real data dimension reduction, and ill-posed inverse problems. Apart from that, I am also interested in machine learning, especially neural networks, from both theory and application aspects.
+Currently I hold a position as a research fellow in the [Department of Statistics and Data Science](https://www.stat.nus.edu.sg/) at the [National University of Singapore](https://www.nus.edu.sg/) (NUS). My academic journey at NUS began in August 2018, culminating in a Ph.D. in Statistics in January 2024 under the guidance of associate professor [Zhigang YAO](https://zhigang-yao.github.io/index.html). Prior to my journey in Singapore, I earned a B.S. in Statistics from [Zhejiang University](https://www.zju.edu.cn/english/) in 2018. For additional details about my academic and professional journey, please refer to <a href="/cv/">my CV</a>.
+
+My research primarily focuses on statistical inference related to singularities, including manifold fitting in Euclidean spaces, real data dimension reduction, and solving ill-posed inverse problems. In addition, I have a keen interest in machine learning, particularly in the theoretical and practical applications of neural networks.
