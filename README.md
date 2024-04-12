@@ -16,5 +16,5 @@ Originally, **al-folio** was based on the [\*folio theme](https://github.com/bog
 
 ## Notes
 
-- CV: assets/json/resume.json
+- CV: assets/json/resume.json, https://jsonresume.org/schema/
 - publication: _bibliography/papers.bib

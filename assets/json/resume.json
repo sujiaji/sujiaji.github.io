@@ -57,5 +57,8 @@
       "fluency": "Fluent",
       "icon": ""
     }
+  ],
+  "publication":[
+    {"show": "Ture"}
   ]
 }
