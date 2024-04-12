@@ -14,7 +14,7 @@
       "position": "Research Fellow",
       "url": "https://www.stat.nus.edu.sg/",
       "startDate": "2023-10",
-      "endDate": "present",
+      "endDate": "now",
       "summary": "Department of Statistics & Data Science",
       "highlights": "Advisor: Dr. YAO Zhigang"
     },
@@ -61,8 +61,5 @@
       "fluency": "Fluent",
       "icon": ""
     }
-  ],
-  "publications":[
-    {"show": "Ture"}
   ]
 }
