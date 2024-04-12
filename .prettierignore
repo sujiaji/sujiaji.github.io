@@ -7,3 +7,4 @@ lighthouse_results/**
 _config.yml
 _data/coauthors.yml
 _sass/_variables.scss
+assets/json/resume.json

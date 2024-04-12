@@ -34,11 +34,14 @@
       "url": "https://www.nus.edu.sg/",
       "area": "Department of Statistics and Data Science",
       "studyType": "PhD in Statistics",
-      "date": "2024-01",
+      "startDate": "2018-06",
+      "endDate": "2024-01",
       "courses": "Advisor: Dr. YAO Zhigang"
     },
     {
       "institution": "Zhejiang University",
+      "startDate": "2014-08",
+      "endDate": "2018-06",
       "location": "Zhejiang, China",
       "url": "https://www.zju.edu.cn/",
       "area": "Software Development",
