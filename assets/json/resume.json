@@ -30,20 +30,18 @@
   ],
   "education": [
     {
-      "institution": "National University of Singapore",
+      "institution": "National University of Singapore, Singapore",
       "url": "https://www.nus.edu.sg/",
       "area": "Department of Statistics and Data Science",
-      "location": "Singapore",
       "studyType": "PhD in Statistics",
       "startDate": "2018-06",
       "endDate": "2024-01",
       "courses": "Advisor: Dr. YAO Zhigang"
     },
     {
-      "institution": "Zhejiang University",
+      "institution": "Zhejiang University, Zhejiang, China",
       "startDate": "2014-08",
       "endDate": "2018-06",
-      "location": "Zhejiang, China",
       "url": "https://www.zju.edu.cn/",
       "area": "School of Mathematical Sciences",
       "studyType": "Bachelor of Natural Sciences in Statistics",
