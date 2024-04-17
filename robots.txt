@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sujiaji.github.io/homepage-test//sitemap.xml
+Sitemap: https://sujiaji.github.io/sitemap.xml
