@@ -8,4 +8,4 @@ _config.yml
 _data/coauthors.yml
 _sass/_variables.scss
 assets/json/resume.json
-_layout/navigator.liquid
+_layouts/navigator.liquid
