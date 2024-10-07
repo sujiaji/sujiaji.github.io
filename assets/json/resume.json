@@ -1,33 +1,13 @@
 {
   "basics": {
     "name": "Su Jiaji",
-    "label": "Postdoc in Statistics",
+    "position": "Postdoc in Statistics",
     "image": "",
     "email": "jiaji.su@nus.edu.sg",
     "phone": "",
-    "url": "https://sujiaji.github.io/",
+    "url": "https://sujiaji.cn/",
     "summary": ""
   },
-  "work": [
-    {
-      "name": "National University of Singapore",
-      "position": "Research Fellow",
-      "url": "https://www.stat.nus.edu.sg/",
-      "startDate": "2023-10",
-      "endDate": "now",
-      "summary": "Department of Statistics & Data Science",
-      "highlights": "Advisor: Dr. YAO Zhigang"
-    },
-    {
-      "name": "National University of Singapore",
-      "position": "Student Research Assistant",
-      "url": "https://www.stat.nus.edu.sg/",
-      "startDate": "2022-08",
-      "endDate": "2023-10",
-      "summary": "Department of Statistics & Data Science",
-      "highlights": "Advisor: Dr. YAO Zhigang"
-    }
-  ],
   "education": [
     {
       "institution": "National University of Singapore, Singapore",
@@ -46,6 +26,26 @@
       "area": "School of Mathematical Sciences",
       "studyType": "Bachelor of Natural Sciences in Statistics",
       "date": "2018-06"
+    }
+  ],
+  "work": [
+    {
+      "name": "National University of Singapore",
+      "position": "Research Fellow",
+      "url": "https://www.stat.nus.edu.sg/",
+      "startDate": "2023-10",
+      "endDate": "now",
+      "summary": "Department of Statistics & Data Science",
+      "highlights": "Advisor: Dr. YAO Zhigang"
+    },
+    {
+      "name": "National University of Singapore",
+      "position": "Student Research Assistant",
+      "url": "https://www.stat.nus.edu.sg/",
+      "startDate": "2022-08",
+      "endDate": "2023-10",
+      "summary": "Department of Statistics & Data Science",
+      "highlights": "Advisor: Dr. YAO Zhigang"
     }
   ],
   "experience": [
