@@ -29,5 +29,6 @@ toc:
 ### Talks
 - Beijing Institute of Technology, Beijing, July 2023.
 - Shanghai Institute for Mathematics and Interdisciplinary Sciences, Shanghai, June 2024.
+- [ISAG II](https://ims.nus.edu.sg/events/isagii/), IMS NUS, October 2024,
 
 ------
