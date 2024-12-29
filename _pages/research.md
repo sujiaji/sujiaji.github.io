@@ -16,6 +16,7 @@ toc:
 <p style="margin-bottom: -1em;"></p>
 
 - Principal decomposition with nested submanifolds.(2024+)
+- Manifold Fitting Reveals Metabolomic Heterogeneity and Disease Associations in UK Biobank Populations. (2024+)
 
 **Available online**
 
