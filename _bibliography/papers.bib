@@ -7,7 +7,7 @@
   html = {https://doi.org/10.1214/23-AOAS1772},
   code = {https://github.com/zhigang-yao/chromatography},
   author = {Jiaji Su and Zhigang Yao and Cheng Li and Ye Zhang},
-  title = {{A statistical approach to estimating adsorption-isotherm parameters in gradient-elution preparative liquid chromatography}},
+  title = {{A Statistical Approach to Estimating Adsorption-Isotherm Parameters in Gradient-Elution Preparative Liquid Chromatography}},
   volume = {17},
   journal = {The Annals of Applied Statistics},
   number = {4},
@@ -16,10 +16,13 @@
   keywords = {adsorption isotherm, Bayesian sampling, Gaussian-mixture model, inverse problem, Liquid chromatography},
   year = {2023},
   doi = {10.1214/23-AOAS1772},
-  URL = {https://doi.org/10.1214/23-AOAS1772}
+  arxiv = {2201.00958},
+  URL = {https://doi.org/10.1214/23-AOAS1772},
+  abstract = {Determining the adsorption isotherms is an issue of significant importance in preparative chromatography. A modern technique for estimating adsorption isotherms is to solve an inverse problem so that the simulated batch separation coincides with actual experimental results. However, due to the ill-posedness, the high nonlinearity, and the uncertainty quantification of the corresponding physical model, the existing deterministic inversion methods are usually inefficient in real-world applications. To overcome these difficulties and study the uncertainties of the adsorption-isotherm parameters, in this work, based on the Bayesian sampling framework, we propose a statistical approach for estimating the adsorption isotherms in various chromatography systems. Two modified Markov chain Monte Carlo algorithms are developed for a numerical realization of our statistical approach. Numerical experiments with both synthetic and real data are conducted and described to show the efficiency of the proposed new method.
+  }
 }
 
-@misc{yao2023manifold,
+@article{yao2023manifold,
   bibtex_show={true},
   preview={mf.png},
   selected={true},
@@ -29,11 +32,12 @@
   author={Zhigang Yao and Jiaji Su and Bingjie Li and Shing-Tung Yau},
   year={2023},
   arxiv={2304.07680},
+  journal = {arXiv preprint arXiv:2304.07680},
   archivePrefix={arXiv},
   primaryClass={math.ST},
-  abstract = {While classical data analysis has addressed observations that are real numbers or elements of a real vector space, at present many statistical problems of high interest in the sciences address the analysis of data that consist of more complex objects, taking values in spaces that are naturally not (Euclidean) vector spaces but which still feature some geometric structure. Manifold fitting is a long-standing problem, and has finally been addressed in recent years by  Fefferman et. al (\cite{fefferman2020reconstruction,fefferman2021reconstruction}).
-  We develop a method with a theory guarantee that fits a $d$-dimensional underlying manifold from noisy observations sampled in the ambient space $\mathbb{R}^D$. The new approach uses geometric structures to obtain the manifold estimator in the form of image sets via a two-step mapping approach. 
-  We prove that, under certain mild assumptions and with a sample size $N=\mathcal{O}(\sigma^{-(d+3)})$, these estimators are true $d$-dimensional smooth manifolds whose estimation error, as measured by the Hausdorff distance, is bounded by $\mathcal{O}(\sigma^2\log(1/\sigma))$ with high probability. Compared with the existing approaches proposed in \cite{fefferman2018fitting, fefferman2021fitting, genovese2014nonparametric, yao2019manifold}, our method exhibits superior efficiency while attaining very low error rates with a significantly reduced sample size, which scales polynomially in $\sigma^{-1}$ and exponentially in $d$. Extensive simulations are performed to validate our theoretical results. Our findings are relevant to various fields involving high-dimensional data in machine learning. Furthermore, our method opens up new avenues for existing non-Euclidean statistical methods in the sense that it has the potential to unify them to analyze data on manifolds in the ambience space domain.}
+  abstract = {While classical data analysis has addressed observations that are real numbers or elements of a real vector space, at present many statistical problems of high interest in the sciences address the analysis of data that consist of more complex objects, taking values in spaces that are naturally not (Euclidean) vector spaces but which still feature some geometric structure. Manifold fitting is a long-standing problem, and has finally been addressed in recent years by  Fefferman et. al.
+  We develop a method with a theory guarantee that fits a $d$-dimensional underlying manifold from noisy observations sampled in the ambient space ${R}^D$. The new approach uses geometric structures to obtain the manifold estimator in the form of image sets via a two-step mapping approach. 
+  We prove that, under certain mild assumptions and with a sample size $N={O}(\sigma^{-(d+3)})$, these estimators are true $d$-dimensional smooth manifolds whose estimation error, as measured by the Hausdorff distance, is bounded by ${O}(\sigma^2\log(1/\sigma))$ with high probability. Compared with the existing approaches, our method exhibits superior efficiency while attaining very low error rates with a significantly reduced sample size, which scales polynomially in $\sigma^{-1}$ and exponentially in $d$. Extensive simulations are performed to validate our theoretical results. Our findings are relevant to various fields involving high-dimensional data in machine learning. Furthermore, our method opens up new avenues for existing non-Euclidean statistical methods in the sense that it has the potential to unify them to analyze data on manifolds in the ambience space domain.}
 }
 
 @article{doi:10.1073/pnas.2311436121,
@@ -42,8 +46,8 @@
   html={https://www.pnas.org/doi/10.1073/pnas.2311436121},
   code = {https://github.com/zhigang-yao/MFCGAN},
   abbr = {PNAS},
-  author = {Zhigang Yao  and Jiaji Su  and Shing-Tung Yau },
-  title = {Manifold fitting with CycleGAN},
+  author = {Zhigang Yao  and Jiaji Su  and Shing-Tung Yau},
+  title = {Manifold Fitting with CycleGAN},
   journal = {Proceedings of the National Academy of Sciences},
   volume = {121},
   number = {5},
@@ -54,3 +58,18 @@
   eprint = {https://www.pnas.org/doi/pdf/10.1073/pnas.2311436121},
   abstract = {Manifold fitting, which offers substantial potential for efficient and accurate modeling, poses a critical challenge in nonlinear data analysis. This study presents an approach that employs neural networks to fit the latent manifold. Leveraging the generative adversarial framework, this method learns smooth mappings between low-dimensional latent space and high-dimensional ambient space, echoing the Riemannian exponential and logarithmic maps. The well-trained neural networks provide estimations for the latent manifold, facilitate data projection onto the manifold, and even generate data points that reside directly within the manifold. Through an extensive series of simulation studies and real data experiments, we demonstrate the effectiveness and accuracy of our approach in capturing the inherent structure of the underlying manifold within the ambient space data. Notably, our method exceeds the computational efficiency limitations of previous approaches and offers control over the dimensionality and smoothness of the resulting manifold. This advancement holds significant potential in the fields of statistics and computer science. The seamless integration of powerful neural network architectures with generative adversarial techniques unlocks possibilities for manifold fitting, thereby enhancing data analysis. The implications of our findings span diverse applications, from dimensionality reduction and data visualization to generating authentic data. Collectively, our research paves the way for future advancements in nonlinear data analysis and offers a beacon for subsequent scholarly pursuits.}}
 
+@article{Su2025principal,
+  bibtex_show={true},
+  selected={true},
+  abbr = {arXiv},
+  title={Principal Decomposition with Nested Submanifolds},
+  author={Su, Jiaji and Yao, Zhigang},
+  journal={arXiv preprint arXiv:2502.10010},
+  year={2025},
+  arxiv={2502.10010},
+  archivePrefix={arXiv},
+  primaryClass={stat.ME},
+  abstract = {
+  Over the past decades, the increasing dimensionality of data has increased the need for effective data decomposition methods. Existing approaches, however, often rely on linear models or lack sufficient interpretability or flexibility. To address this issue, we introduce a novel nonlinear decomposition technique called the principal nested submanifolds, which builds on the foundational concepts of principal component analysis. This method exploits the local geometric information of data sets by projecting samples onto a series of nested principal submanifolds with progressively decreasing dimensions. It effectively isolates complex information within the data in a backward stepwise manner by targeting variations associated with smaller eigenvalues in local covariance matrices. Unlike previous methods, the resulting subspaces are smooth manifolds, not merely linear spaces or special shape spaces. Validated through extensive simulation studies and applied to real-world RNA sequencing data, our approach surpasses existing models in delineating intricate nonlinear structures. It provides more flexible subspace constraints that improve the extraction of significant data components and facilitate noise reduction. This innovative approach not only advances the non-Euclidean statistical analysis of data with low-dimensional intrinsic structure within Euclidean spaces, but also offers new perspectives for dealing with high-dimensional noisy data sets in fields such as bioinformatics and machine learning.
+  }
+}

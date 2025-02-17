@@ -5,8 +5,6 @@ title: Research
 description: My work is mainly about manifold fitting and statistical inference with singularity.
 nav: true
 nav_order: 1
-toc:
-  sidebar: left
 ---
 
 ### Publication
@@ -14,9 +12,11 @@ toc:
 **In preparation**
 
 <p style="margin-bottom: -1em;"></p>
+---------
 
-- Principal decomposition with nested submanifolds.(2024+)
-- Manifold Fitting Reveals Metabolomic Heterogeneity and Disease Associations in UK Biobank Populations. (2024+)
+
+<!-- - Principal Decomposition with Nested Submanifolds.(2025+) -->
+- Manifold Fitting Reveals Metabolomic Heterogeneity and Disease Associations in UK Biobank Populations. (2025+)
 
 **Available online**
 

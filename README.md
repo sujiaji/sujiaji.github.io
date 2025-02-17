@@ -18,3 +18,8 @@ Originally, **al-folio** was based on the [\*folio theme](https://github.com/bog
 
 - CV: assets/json/resume.json, https://jsonresume.org/schema/
 - publication: _bibliography/papers.bib
+
+## Run Locally
+```
+bundle exec jekyll serve --livereload
+```
