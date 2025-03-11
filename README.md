@@ -21,5 +21,8 @@ Originally, **al-folio** was based on the [\*folio theme](https://github.com/bog
 
 ## Run Locally
 ```
-bundle exec jekyll serve --livereload
+docker compose pull
+```
+```
+docker compose up
 ```
