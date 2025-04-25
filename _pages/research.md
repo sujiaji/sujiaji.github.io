@@ -9,14 +9,14 @@ nav_order: 1
 
 ### Publication
 
-**In preparation**
+<!-- **In preparation**
 
 <p style="margin-bottom: -1em;"></p>
----------
+--------- -->
 
 
 <!-- - Principal Decomposition with Nested Submanifolds.(2025+) -->
-- Manifold Fitting Reveals Metabolomic Heterogeneity and Disease Associations in UK Biobank Populations. (2025+)
+<!-- - Manifold Fitting Reveals Metabolomic Heterogeneity and Disease Associations in UK Biobank Populations. (2025+) -->
 
 **Available online**
 
