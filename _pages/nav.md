@@ -12,4 +12,6 @@ links:
     url: https://arxiv.org/abs/2502.10010
   - name: PNSM slides
     url: /assets/pdf/PNSM_slides.pdf
+  - name: PNSM short slides
+    url: /assets/pdf/PNSM_short.pdf
 ---
