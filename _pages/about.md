@@ -2,7 +2,7 @@
 layout: about
 title: Profile
 permalink: /
-subtitle: su_jiaji(at)nus.edu.sg. A Research Fellow at DSDS, NUS.
+subtitle: su_jiaji(at)foxmail.com. A Research Fellow at DSDS, NUS.
 
 profile:
   align: left
