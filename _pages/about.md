@@ -9,8 +9,8 @@ profile:
   image: profile-2026.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>LD210, Science Building D</p>
-    <p>Huxi Campus, Chongqing University</p>
+    <p>LD210, Huxi Campus</p>
+    <p>Chongqing University</p>
     <p> Chongqing, China 401331</p>
 
 news: true # includes a list of news items
