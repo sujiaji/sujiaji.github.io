@@ -38,11 +38,18 @@
       "summary": "College of Mathematics and Statistics"
     },
     {
+      "name": "Self funded Researcher",
+      "position": "Independent Researcher",
+      "url": "https://sujiaji.cn/",
+      "startDate": "2025-07",
+      "endDate": "2026-03"
+    },
+    {
       "name": "National University of Singapore",
       "position": "Research Fellow",
       "url": "https://www.stat.nus.edu.sg/",
       "startDate": "2023-10",
-      "endDate": "2026-02",
+      "endDate": "2025-07",
       "summary": "Department of Statistics & Data Science",
       "highlights": "Advisor: Dr. YAO Zhigang"
     },
