@@ -32,5 +32,8 @@ nav_order: 1
 - Shanghai Institute for Mathematics and Interdisciplinary Sciences, Shanghai, June 2024.
 - [ISAG II](https://ims.nus.edu.sg/events/isagii/), IMS NUS, October 2024.
 - [The Second Symposium of Geometry and Statistics in China](https://zhigang-yao.github.io/events/iccm-satellite-24), [TSIMF](http://www.tsimf.cn/) Sanya and [SIMIS](http://www.simis.cn/) Shanghai, January 2025.
+- Yau Mathematical Sciences Center, Tsinghua University, May 2025.
+- Chongqing University, Chongqing, October 2025.
+- Lanzhou University, Lanzhou, June 2026.
 
 ------
